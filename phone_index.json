@@ -290,6 +290,7 @@
                 "CPU": "Snapdragon 870",
                 "RAM": "8",
                 "Battery": "5000"
+<<<<<<< HEAD
             },
             "C51": {
                 "CPU": "Unisoc Tiger T612",
@@ -300,6 +301,8 @@
                 "CPU": "Unisoc T612",
                 "RAM": "3",
                 "Battery": "5000"
+=======
+>>>>>>> 34e984736dbe1d5c61dc6f6a70311f70bfaf2cb8
             }
         },
         "Samsung": {
@@ -725,6 +728,7 @@
             }
         },
         "Apple": {
+<<<<<<< HEAD
             "iPhone 18 Pro": {
                 "CPU": "Apple A20 Pro",
                 "RAM": "12",
@@ -735,6 +739,8 @@
                 "RAM": "12",
                 "Battery": "5567"
             },
+=======
+>>>>>>> 34e984736dbe1d5c61dc6f6a70311f70bfaf2cb8
             "iPhone 17e": {
                 "CPU": "Apple A19",
                 "RAM": "8",
